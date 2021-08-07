@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ListView1</string>
+    <string name="joao">João</string>
+    <string name="maria">Maria</string>
+    <string name="pedro">Pedro</string>
+    <string name="andre">André</string>
+    <string name="mateus">Mateus</string>
+    <string name="marcos">Marcos</string>
+    <string name="lucas">Lucas</string>
+    <string name="francisco">Francisco</string>
+    <string name="nome">nome</string>
+    <string name="foi_clicado">" foi clicado"</string>
+</resources>
